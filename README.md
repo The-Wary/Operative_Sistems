@@ -57,3 +57,5 @@ Los archivos inmutables son tratados como de solo lectura y no permiten cambios 
 Se cumplió con todos los requisitos de la tarea y se validó el correcto funcionamiento mediante las pruebas automatizadas.
 Conclusiones
 La implementación del sistema de permisos básicos y del permiso especial de inmutabilidad en xv6 permitió fortalecer el control de acceso a archivos dentro del sistema. Estas modificaciones demostraron la flexibilidad y extensibilidad del sistema operativo, permitiendo la incorporación de características adicionales con impacto directo en la seguridad y funcionalidad.
+
+PD: estaba trabajando en otro, pero, entre que estaba horrible y me causó un par de problemas, me cambié a uno nuevo que solo es la tarea 4
